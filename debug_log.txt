@@ -1,0 +1,9 @@
+Array
+(
+    [timePeriod] => today
+    [machines] => Array
+        (
+            [0] => A1
+        )
+
+)

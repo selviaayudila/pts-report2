@@ -1,0 +1,9 @@
+{
+    "period": "last_week",
+    "from_date": null,
+    "to_date": null,
+    "machine_category": "D",
+    "machines": [
+        "D7"
+    ]
+}
